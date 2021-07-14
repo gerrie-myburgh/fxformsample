@@ -1,0 +1,25 @@
+{
+    "node": {
+        "type": "MIGLAYOUT",
+        "label": "GROUP",
+        "layout": "flowy:: :: ",
+        "children": [
+            {
+                "DisplayHTMLEditor": {
+                    "label": "",
+                    "field": "editor",
+                    "layout": "",
+                    "prefHeight": "200",
+                    "prefWidth": "506"
+                }
+            },
+            {
+                "DisplayButton": {
+                    "label": "PRINT EDIT CONTENT",
+                    "field": "button",
+                    "layout": ""
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "node": {
+        "type": "MIGLAYOUT",
+        "label": "GROUP",
+        "layout": "wrap 2:: :: ",
+        "children": [
+            {
+                "DisplayComboBox": {
+                    "label": "",
+                    "field": "field2",
+                    "layout": ""
+                }
+            },
+            {
+                "DisplayRadioGroup": {
+                    "label": "",
+                    "field": "field3",
+                    "layout": ""
+                }
+            },
+            {
+                "DisplayText": {
+                    "label": "",
+                    "field": "field4",
+                    "layout": "",
+                    "validateREGEX": "",
+                    "errString": ""
+                }
+            }
+        ]
+    }
+}

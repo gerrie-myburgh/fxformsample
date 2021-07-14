@@ -1,0 +1,3 @@
+{"node" :{"type":"MIGLAYOUT","label":"GROUP","layout":"wrap 2:: :: ","children":[
+{"DisplayText":{"label":"Label 5", "field":"field5","layout":"","validateREGEX":"","errString":""}},
+{"DisplayList":{"label":"", "field":"field6","layout":""}}]}}
